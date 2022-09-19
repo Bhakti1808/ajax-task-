@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ajax</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="ajax.css"/>
+    <script src="./ajax.js" defer></script>
+</head>
+<body>
+    <div class="container">
+
+        <form id="main"  >
+            
+            <b>prod_name:</b><input type="text" id="name"/><br>
+            <b>prod_desc:</b><input type="text" id="description"/><br>
+            <b>prod_price:</b><input type="tel" id="price"/><br>
+            <input id="get" type="button" value="Add Product">
+            <input id="filter" type="button"  value="Filter">
+
+        </form>
+
+       <br> <table id='table'>
+            <tr>
+                <th>prod_name</th>
+                <th>prod_desc</th>
+                <th>prod_price</th>
+                <th></th>
+                <th></th>
+            </tr>
+  
+    </div>
+</body>
+</html>

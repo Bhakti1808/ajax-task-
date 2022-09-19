@@ -1,0 +1,88 @@
+{
+  "user": [
+    {
+      "prod_name": "bike",
+      "prod_desc": "costly",
+      "prod_price": "50090",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "prod_name": "stove",
+      "prod_desc": "medium",
+      "prod_price": 38000
+    },
+    {
+      "prod_name": "car",
+      "prod_desc": "highly",
+      "prod_price": "100000",
+      "id": 3
+    },
+    {
+      "prod_name": "scale",
+      "prod_desc": "affortable",
+      "prod_price": "100",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "prod_name": "cupboard",
+      "prod_desc": "strong",
+      "prod_price": 45000
+    },
+    {
+      "id": 6,
+      "prod_name": "t.v",
+      "prod_desc": "highly picture",
+      "prod_price": 60000
+    },
+    {
+      "prod_name": "e3d",
+      "prod_desc": "low",
+      "prod_price": "65",
+      "id": 7
+    },
+    {
+      "prod_name": "key",
+      "prod_desc": "set of key",
+      "prod_price": "300",
+      "id": "454"
+    },
+    {
+      "id": "345",
+      "prod_name": "bike (Bhakti)",
+      "prod_desc": "cos",
+      "prod_price": "65000"
+    },
+    {
+      "id": "94",
+      "prod_name": "key (Bhakti)",
+      "prod_desc": "set of key",
+      "prod_price": "300"
+    },
+    {
+      "prod_name": "key ",
+      "prod_desc": "set of key",
+      "prod_price": "30",
+      "id": "587"
+    },
+    {
+      "prod_name": "hgyguh",
+      "prod_desc": "jhuhu",
+      "prod_price": "ikij",
+      "id": "119"
+    },
+    {
+      "prod_name": "e3d",
+      "prod_desc": "low",
+      "prod_price": "500",
+      "id": "616"
+    },
+    {
+      "id": "816",
+      "prod_name": "bike(Bhakti)",
+      "prod_desc": "low",
+      "prod_price": "57000"
+    }
+  ]
+}

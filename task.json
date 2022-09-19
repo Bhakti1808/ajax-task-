@@ -1,0 +1,57 @@
+
+     [
+        {
+            "prod_name": "bike",
+            "prod_desc": "costly",
+            "prod_price": 65000
+        },
+        {
+            "prod_name": "stove",
+            "prod_desc": "medium",
+            "prod_price": 38000
+        },
+        {
+            "prod_name": "car",
+            "prod_desc": "highly",
+            "prod_price": 100000
+        },
+        {
+            "prod_name": "scale",
+            "prod_desc": "affortable",
+            "prod_price": 100
+        },
+        {
+            "prod_name": "cupboard",
+            "prod_desc": "strong",
+            "prod_price": 45000
+        },
+        {
+            "prod_name": "t.v",
+            "prod_desc": "highly picture",
+            "prod_price": 60000
+        },
+        {
+            "prod_name": "washing machine",
+            "prod_desc": "drying fast",
+            "prod_price": 20000
+        },
+        {
+            "prod_name": "fridge",
+            "prod_desc": "2x cooler",
+            "prod_price": 30000
+        },
+        {
+            "prod_name": "laptop",
+            "prod_desc": "new version",
+            "prod_price": 25000
+        },
+        {
+            "prod_name": "mixture",
+            "prod_desc": "cheaply",
+            "prod_price": 900
+        }
+    
+    ]
+
+ 
+ 
